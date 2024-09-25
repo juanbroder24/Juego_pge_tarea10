@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Juego_pge_tarea10/static/css/main.1899970a.css",
+    "main.js": "/Juego_pge_tarea10/static/js/main.1628eb58.js",
+    "static/js/453.ec497131.chunk.js": "/Juego_pge_tarea10/static/js/453.ec497131.chunk.js",
+    "index.html": "/Juego_pge_tarea10/index.html",
+    "main.1899970a.css.map": "/Juego_pge_tarea10/static/css/main.1899970a.css.map",
+    "main.1628eb58.js.map": "/Juego_pge_tarea10/static/js/main.1628eb58.js.map",
+    "453.ec497131.chunk.js.map": "/Juego_pge_tarea10/static/js/453.ec497131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1899970a.css",
+    "static/js/main.1628eb58.js"
+  ]
+}
